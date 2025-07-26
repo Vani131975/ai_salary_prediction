@@ -13,12 +13,19 @@ This comprehensive dataset provides an in-depth view of the global AI and machin
 This dataset includes detailed salary information, job requirements, company insights, and geographic trends. Below are its key features:
 
 ✔️ 15,000+ job listings from 50+ countries
+
 ✔️ Salary data in multiple currencies (normalized to USD)
+
 ✔️ Experience level categorization (Entry, Mid, Senior, Executive)
+
 ✔️ Company size impact analysis
+
 ✔️ Remote work trends and patterns
+
 ✔️ Skills demand analysis
+
 ✔️ Geographic salary variations
+
 ✔️ Time-series data showing market evolution
 
 
