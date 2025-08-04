@@ -1,14 +1,43 @@
 # ai_salary_prediction
 
-📊 Global AI Job Market & Salary Trends 2025
+##  What I Did
 
-🔍 Complete Analysis of 15,000+ Positions
+1.  **Exploratory Data Analysis (EDA)**  
+   - Analyzed salary distributions, experience levels, job locations, and remote work trends  
+   - Visualized relationships between salary and features like company size, skills, and geography
+
+2.  **Data Preprocessing**  
+   - Handled missing values and outliers  
+   - Encoded categorical variables (e.g., experience level, employment type)  
+   - Normalized numerical features for model compatibility
+
+3.  **ANN Model Building**  
+   - Built an Artificial Neural Network using TensorFlow/Keras  
+   - Defined input layers, hidden layers, activation functions, and output node for regression
+
+4.  **Model Training & Evaluation**  
+   - Split data into training and test sets  
+   - Trained the model and evaluated performance using MAE, RMSE, and R² metrics
+
+5.  **Hyperparameter Tuning**  
+   - Tuned batch size, epochs, learning rate, and number of layers to improve accuracy  
+   - Used GridSearch-like approach and monitored validation loss
+
+6.  **Final Report & Explanation**  
+   - Documented model performance and feature importance  
+   - Interpreted the results in the context of global AI job trends  
+   - Provided insights and recommendations based on findings
+
+
+ Global AI Job Market & Salary Trends 2025
+
+ Complete Analysis of 15,000+ Positions
 
 📘 Dataset Overview
 
 This comprehensive dataset provides an in-depth view of the global AI and machine learning job landscape across 50+ countries, covering 15,000+ real job postings collected from major job platforms worldwide. It is ideal for data scientists, career researchers, and market analysts.
 
-📦 What's Inside
+ What's Inside
 
 This dataset includes detailed salary information, job requirements, company insights, and geographic trends. Below are its key features:
 
@@ -77,7 +106,7 @@ benefits_score	Numerical score of benefits package (1-10)	Float
 
 🎯 Potential Use Cases
 
-📈 Salary Prediction Models
+ Salary Prediction Models
 
 • Build ML models to predict AI job salaries
 
@@ -85,7 +114,7 @@ benefits_score	Numerical score of benefits package (1-10)	Float
 
 • Compare salaries across different locations
 
-📊 Market Trend Analysis
+ Market Trend Analysis
 
 • Track the evolution of AI job market
 
@@ -93,7 +122,7 @@ benefits_score	Numerical score of benefits package (1-10)	Float
 
 • Analyze remote work adoption patterns
 
-💼 Career Planning
+ Career Planning
 
 • Understand skill requirements for different positions
 
@@ -101,7 +130,7 @@ benefits_score	Numerical score of benefits package (1-10)	Float
 
 • Plan career progression paths
 
-📌 Business Intelligence
+ Business Intelligence
 
 • Company hiring patterns analysis
 
@@ -109,7 +138,7 @@ benefits_score	Numerical score of benefits package (1-10)	Float
 
 • Market competition insights
 
-🌍 Geographic Studies
+ Geographic Studies
 
 • Cost of living vs. salary analysis
 
@@ -117,7 +146,7 @@ benefits_score	Numerical score of benefits package (1-10)	Float
 
 • Immigration pattern correlations
 
-🛠️ Data Collection Methodology
+ Data Collection Methodology
 
 Data was collected through ethical web scraping from major job platforms including:
 
