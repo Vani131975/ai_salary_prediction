@@ -33,7 +33,7 @@
 
  Complete Analysis of 15,000+ Positions
 
-📘 Dataset Overview
+ Dataset Overview
 
 This comprehensive dataset provides an in-depth view of the global AI and machine learning job landscape across 50+ countries, covering 15,000+ real job postings collected from major job platforms worldwide. It is ideal for data scientists, career researchers, and market analysts.
 
@@ -41,24 +41,24 @@ This comprehensive dataset provides an in-depth view of the global AI and machin
 
 This dataset includes detailed salary information, job requirements, company insights, and geographic trends. Below are its key features:
 
-✔️ 15,000+ job listings from 50+ countries
+15,000+ job listings from 50+ countries
 
-✔️ Salary data in multiple currencies (normalized to USD)
+Salary data in multiple currencies (normalized to USD)
 
-✔️ Experience level categorization (Entry, Mid, Senior, Executive)
+Experience level categorization (Entry, Mid, Senior, Executive)
 
-✔️ Company size impact analysis
+Company size impact analysis
 
-✔️ Remote work trends and patterns
+Remote work trends and patterns
 
-✔️ Skills demand analysis
+Skills demand analysis
 
-✔️ Geographic salary variations
+Geographic salary variations
 
-✔️ Time-series data showing market evolution
+Time-series data showing market evolution
 
 
-🧾 Columns Description
+Columns Description
 
 
 Column	Description	Type
@@ -104,7 +104,7 @@ job_description_length	Character count of job description	Integer
 benefits_score	Numerical score of benefits package (1-10)	Float
 
 
-🎯 Potential Use Cases
+Potential Use Cases
 
  Salary Prediction Models
 
@@ -157,8 +157,8 @@ Data was collected through ethical web scraping from major job platforms includi
 - Stack Overflow Jobs
 - Company career pages
 
-📅 Time Period: January 2024 - May 2025
+Time Period: January 2024 - May 2025
 
-🔁 Update Frequency: Monthly
+Update Frequency: Monthly
 
-✅ Data Quality: All entries manually verified and standardized
+Data Quality: All entries manually verified and standardized
